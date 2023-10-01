@@ -1,10 +1,3 @@
-### 🌎 Global Ranking:
-<img src="http://www.hackthebox.eu/badge/image/126217" alt="Hack The Box">
-<img src="https://www.hackthebox.com/badge/team/image/2102" alt="Hack The Box">
-
-### 🏆 Certifications:
-<img src="https://raw.githubusercontent.com/fg0x0/fg0x0/master/oscp.png" width="150"><img src="https://raw.githubusercontent.com/fg0x0/fg0x0/master/osep.png" width="150"><img src="https://raw.githubusercontent.com/fg0x0/fg0x0/master/oswe.png" width="150"><img src="https://raw.githubusercontent.com/fg0x0/fg0x0/master/synackkkkkkkkkkkkkkkkkkkkkkkkkk.jpg" width="150">
-
 ### 📢 Contact with me:
 
 [<img align="left" alt="FantasM | YouTube" width="50px" src="https://raw.githubusercontent.com/fg0x0/fg0x0/master/Youtube.svg" />][youtube]
@@ -15,13 +8,9 @@
 <br><br>
 ### ☠️ CyberSecurity Career:
 
-- ☠️ Goals for 2023: Road to [OSED][osed] | [Omniscient & Top 10][hackthebox]
-- 🤖 I am currently working on [LIVE MACHINE HACKING][hackthebox] | Windows Kernel Exploitation | Active Directory Hacking
-- 👾 I am studying right now: [OSED][osed] | Malware Analysis | AV Evasion Techniques | CVE
+- 👾 I am studying right now
 
 <img src="https://media.giphy.com/media/3oEjHWpiVIOGXT5l9m/giphy.gif" width="100">
-
-[![Website](https://img.shields.io/website?label=fg0x0.gitbook.io&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://fg0x0.gitbook.io/)
 
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=keyword&title=зочилсон-хүмүүсийн-тоо)
 
